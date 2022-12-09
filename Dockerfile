@@ -1,4 +1,4 @@
 FROM openjdk:19
 EXPOSE 9091
-ADD target/Mohan_Devops_Integration.jar Mohan_Devops_Integration.jar
-ENTRYPOINT["java","-jar","/Mohan_Devops_Integration.jar"]
+ADD target/mohan_devops_integration.jar mohan_devops_integration.jar
+ENTRYPOINT["java","-jar","/mohan_devops_integration.jar"]

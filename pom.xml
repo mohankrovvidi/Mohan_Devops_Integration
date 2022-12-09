@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <build>
-        <finalName>Mohan_Devops_Integration</finalName>
+        <finalName>mohan_devops_integration</finalName>
     </build>
 
 </project>
